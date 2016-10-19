@@ -1,5 +1,5 @@
 # docker-kodexplorer-ttyjs
-docker下集成了kodexplorer和ttyjs
+docker下集成了kodexplorer和ttyjs，docker-hub地址：https://hub.docker.com/r/ethanzhu/kodexplorer-ttyjs/
 
 #quick start
 run the command in docker with foregroud:
