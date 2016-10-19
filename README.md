@@ -7,12 +7,12 @@ run the command in docker with foregroud:
 or background:
 `docker run -d -p 23:22 -p 3001:3000 -p 81:80 ethanzhu/kodexplorer-ttyjs`
 #the note
-访问webshell: http://{ip}:3001
-访问KODExplorer：http://{ip}:81
-登陆ssh: ssh ubuntu@{ip} -p 23
-网站根目录：/usr/www
-KODExplorer：admin admin
-ubuntu账号:ubuntu ubuntu
+- 访问webshell: http://{ip}:3001
+- 访问KODExplorer：http://{ip}:81
+- 登陆ssh: ssh ubuntu@{ip} -p 23
+- 网站根目录：/usr/www
+- KODExplorer：admin admin
+- ubuntu账号:ubuntu ubuntu
 
 服务命令:
 ```
